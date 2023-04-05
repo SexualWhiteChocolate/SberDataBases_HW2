@@ -13,3 +13,7 @@
 Определим процент выживших:
 
 ![](https://github.com/SexualWhiteChocolate/SberDataBases_HW2/blob/main/image2.jpg)
+
+Найдем распределение количества пассажиров по классу билета:
+
+![](https://github.com/SexualWhiteChocolate/SberDataBases_HW2/blob/main/image3.jpg)
