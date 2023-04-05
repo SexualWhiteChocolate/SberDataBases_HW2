@@ -2,4 +2,7 @@
 
 Использовать будем стандартный датасет Titanic Dataset. Записи в этом датасете имеют следующий вид:
 
-![alt text](http://url/to/img.png)
+Пример элемента данных            |  Состояние базы данных
+:-------------------------:|:-------------------------:
+![](https://github.com/SexualWhiteChocolate/SberDataBases_HW2/blob/main/image1.jpg)  |  ![]([https://...Ocean.png](https://github.com/SexualWhiteChocolate/SberDataBases_HW2/blob/main/image.png))
+
