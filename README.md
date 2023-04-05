@@ -4,5 +4,5 @@
 
 Пример элемента данных            |  Состояние базы данных
 :-------------------------:|:-------------------------:
-![](https://github.com/SexualWhiteChocolate/SberDataBases_HW2/blob/main/image1.jpg)  |  ![]([https://...Ocean.png](https://github.com/SexualWhiteChocolate/SberDataBases_HW2/blob/main/image.png))
+![](https://github.com/SexualWhiteChocolate/SberDataBases_HW2/blob/main/image1.jpg)  |  ![](https://github.com/SexualWhiteChocolate/SberDataBases_HW2/blob/main/image.png)
 
