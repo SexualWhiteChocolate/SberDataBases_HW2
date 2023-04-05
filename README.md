@@ -6,3 +6,10 @@
 :-------------------------:|:-------------------------:
 ![](https://github.com/SexualWhiteChocolate/SberDataBases_HW2/blob/main/image1.jpg)  |  ![](https://github.com/SexualWhiteChocolate/SberDataBases_HW2/blob/main/image.png)
 
+# Операции над данными
+
+## Read
+
+Определим процент выживших:
+
+![](https://github.com/SexualWhiteChocolate/SberDataBases_HW2/blob/main/image2.jpg)
